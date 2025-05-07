@@ -1,5 +1,5 @@
 {
-  "name": "Ayu Darkvenom Transparent",
+  "name": "Ayu Darkvenom Transparent - borderless",
   "colors": {
     "activityBar.activeBorder": "#e6b450",
     "activityBar.background": "#0b0e1400",
@@ -115,7 +115,7 @@
     "menu.background": "#0d101750",
     "minimap.background": "#0b0e14",
     "minimap.errorHighlight": "#d95757",
-    "minimap.findMatchHighlight": "#6c5980",
+    "minimap.findMatchHighlight": "#6c598060",
     "minimap.selectionHighlight": "#409fff4d",
     "minimapGutter.addedBackground": "#7fd962",
     "minimapGutter.deletedBackground": "#f26d78",
@@ -199,7 +199,6 @@
     "welcomePage.tileBackground": "#0b0e1400",
     "welcomePage.tileHoverBackground": "#12171f00",
     "widget.shadow": "#00000080",
-    // Neu
     "activityBar.border": "#0b0e1400",
     "debugExceptionWidget.border": "#1e232b00",
     "dropdown.border": "#565b6600",
