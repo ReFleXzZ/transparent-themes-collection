@@ -4,6 +4,6 @@ All notable changes to the "ayu-darkvenom-transparent" extension will be documen
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [v0.0.1] - 2025-05-07
 
 - Initial release
