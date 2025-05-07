@@ -1,7 +1,7 @@
 {
-  "name": "transparent-themes-collection",
+  "name": "vscode-transparent-themes-collection",
   "displayName": "Ayu Darkvenom Transparent",
-  "description": "This is (or rather will be) a collection of themes. These themes will mostly be transparent but should also work well without transparency.",
+  "description": "This is (or rather will be) a collection of themes for Visual Studio Code. These themes will mostly be transparent but should also work well without transparency.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.99.0"
