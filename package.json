@@ -1,0 +1,21 @@
+{
+  "name": "ayu-darkvenom-transparent",
+  "displayName": "Ayu Darkvenom Transparent",
+  "description": "This is a mix from the transparent color theme and ayu darkvenom from \"Best Themes Redefined\". While keeping the token colors from Ayu Darkvenom, this theme tries to make everything else transparent without borders.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Darkvenom Transparent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu Darkvenom Transparent-color-theme.json"
+      }
+    ]
+  }
+}
