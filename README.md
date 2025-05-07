@@ -8,7 +8,10 @@ Now you're at the right place! 🥳
 
 This extension is (or rather *will* be) a collection of themes with transparent backgrounds which should also work well without transparency. (not tested)
 
-## Requirements:
+> [!NOTE]
+> Currently only one theme included! (2025-05-07)
+
+## Requirements
 
 ### Linux
 
